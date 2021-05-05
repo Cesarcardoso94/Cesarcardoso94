@@ -1,5 +1,5 @@
 Olá, meu nome é César Augusto Cardoso, atualmente sou estudante de Sistemas de Informações na Universidade Federal de Ouro Preto.
-Atualmente estou aprofundando meus conhecimentos em Java e iniciando estudos em PostgresSQL.
+Atualmente estou aprofundando meus conhecimentos em Java e iniciando estudos em JavaScript, React e PostgreSQL.
 Estou a procura de estágios na área de desenvolvimento, onde eu possa contruibuir em projetos, utilizando todo meu conhecimento obtido.
 LinkedIn: https://www.linkedin.com/in/cesaraugustocardoso/
 
