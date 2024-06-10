@@ -1,4 +1,3 @@
-Olá, meu nome é César Augusto Cardoso, atualmente sou estudante de Sistemas de Informações na Universidade Federal de Ouro Preto.
 LinkedIn: https://www.linkedin.com/in/cesaraugustocardoso/
 
 <!---
